@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BabilotheProgrammer
 - 👀 Brand new to this programming game
-- 🌱 I’m currently learning or at least trying to learn Ruby on rails 26/08/2023
-- 💞️ Started going through the Courses/lessons on theOdinproject.com yesterday 
+- 🌱 I’m currently learning or at least trying to learn Ruby on rails 
+- 💞️ Started going through the Courses/lessons on theOdinproject.com yesterday 26/08/2023
 - 📫 
 
 <!---
